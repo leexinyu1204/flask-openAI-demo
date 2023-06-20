@@ -1,0 +1,8 @@
+{
+
+  "OPENAI_API_BASE": "https://search-demo.openai.azure.com/",
+  "OPENAI_API_KEY": "ee34a1fafb984c4483c5b846bfc428b8",
+  "CHATGPT_MODEL": "chat-demo",
+  "EMBEDDING_MODEL": "embedding-demo",
+  "OPENAI_API_VERSION" : "2023-05-15"
+}
